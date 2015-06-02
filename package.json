@@ -1,0 +1,27 @@
+{
+  "name": "chimmeraanimations",
+  "version": "1.0.0",
+  "description": "Testing code for creating repo in git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roopakburman/ChimmeraAnimations.git"
+  },
+  "keywords": [
+    "HTML",
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "AngularJS",
+    "JQuery"
+  ],
+  "author": "Roopak Burman",
+  "license": "Open Source",
+  "bugs": {
+    "url": "https://github.com/roopakburman/ChimmeraAnimations/issues"
+  },
+  "homepage": "https://github.com/roopakburman/ChimmeraAnimations"
+}
